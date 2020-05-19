@@ -6,7 +6,7 @@
 }
 html {
   font-size: 62.5%;
-  scrolling-behavior: smooth;
+  scroll-behavior: smooth;
 }
 body {
   font-family: "Poppins", sans-serif;
@@ -79,7 +79,7 @@ nav ul {
 }
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/img/landing-page.jpg");
+    url("trytravellyproject/img/contact-mountain.png");
   min-height: 90vh;
   background-repeat: no-repeat;
   background-position: center;
